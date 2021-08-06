@@ -4,4 +4,3 @@ services:
         image: "pongpanoth/se331-lab06:latest"
         ports: 
             - 8001:80
-            - 8002:80
